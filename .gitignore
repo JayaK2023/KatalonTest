@@ -5,3 +5,5 @@
 /.classpath
 .svn/
 .cache/
+/Reports/
+/.properties
